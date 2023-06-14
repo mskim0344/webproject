@@ -1,0 +1,10 @@
+.scroll nav{
+                background-color: rgba(255,255,255,.6) !important;   
+                padding: 0;
+            }
+.scroll nav a{
+                color : black !important;
+                border-bottom: 1px solid #222;
+     }
+            
+    
